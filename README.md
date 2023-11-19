@@ -1,6 +1,8 @@
-# schnellstapel hello
+# Trace Analysis Tool for smFET and nano pore data.
 
-This tool is for QUICKLY looking at BATCH data from the schnellamt board reader. 
+This tool is for QUICKLY looking at BATCH data from smFET devices
+The software was developed in the Bioelectronics Systems Lab of Kenneth Shepard at Columbia University.
+It allows to analyse large scale time series data of various measurement platforms to analyze single molecular data.
 
 ## Dependencies
 ### `make docs`
