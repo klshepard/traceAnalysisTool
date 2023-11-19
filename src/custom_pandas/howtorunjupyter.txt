@@ -1,0 +1,23 @@
+### Jakob Buchheim
+
+
+
+this is a quick note on how to run the jupyter notebook.
+
+
+
+1. open terminal
+2. browse to folder /Schnellstapel
+3. start notebook server:
+	jupyter notebook
+4. open link presented in browser
+5. browse to src/custom_pandas
+6. open the jupyternotebookfile
+
+
+Content of jupyter notebook file:
+* Convenient way to create new data branches from the notebook
+* Convenient way to run Schnellstapel
+* Import dataframes to plot and analyze data
+
+
